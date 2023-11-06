@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/strdining/static/css/main.21e41d6c.css",
+    "main.js": "/strdining/static/js/main.005fadc1.js",
+    "static/media/meal.mp4": "/strdining/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/strdining/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/menunew.png": "/strdining/static/media/menunew.ccb5b03f1d9fb12432df.png",
+    "static/media/gallery04.png": "/strdining/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/pastawelcome.png": "/strdining/static/media/pastawelcome.d91b5240e084c006f19d.png",
+    "static/media/gallery03.png": "/strdining/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/beefnewow.png": "/strdining/static/media/beefnewow.248c0e0b6ee0cfce9f81.png",
+    "static/media/secondnewdrink(2).png": "/strdining/static/media/secondnewdrink(2).dbbdfb1fd536c8175220.png",
+    "static/media/gallery02.png": "/strdining/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/chefnew(2).png": "/strdining/static/media/chefnew(2).fbbf3db00c97f3a8d866.png",
+    "static/media/gallery01.png": "/strdining/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/strdining/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/strdining/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/strdining/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/award02.png": "/strdining/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/strdining/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/strdining/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/strdining/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/strdining/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/strdining/index.html",
+    "static/media/spoon.svg": "/strdining/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.21e41d6c.css.map": "/strdining/static/css/main.21e41d6c.css.map",
+    "main.005fadc1.js.map": "/strdining/static/js/main.005fadc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e41d6c.css",
+    "static/js/main.005fadc1.js"
+  ]
+}
